@@ -1,0 +1,37 @@
+                      Cobalt #21 Data Sheet
+
+       Description: Cobalt alloy #21 is a Molybdenum strengthened, high
+       temperature, corrosion resistant alloy with exceptional impact, erosion , and
+       metal to metal wear resistance. The alloy work hardens in service. It has
+       moderate abrasion resistance as compared to Seaco Cobalt alloy #6.
+
+       Applications: Hot Forming Dies, Forging Dies, Erosion Shields, Valve Seats
+       and plugs, Hydro-Turbine Runners, Pump shafts and sleeves.
+
+       Typical Chemical Analysis:
+            C     Mn Si      Ni       Cr    W      Mo    Fe    Co
+            .25 .50 .60 2.5           26    -      5.5   1.0   Bal.
+
+       Machineability: Good
+
+       Hardness: Rc 22-32 as deposited, Rc 38-40 wok hardened
+
+       Hot Hardness (DPH): 800°F - 130; 1000°F - 135; 1200°F - 140;
+                           1400°F - 110
+
+       Adhesive Wear Data (Avg.): 90lb Load - 2.5mm³; 150lb Load - 5.2mm³
+       (Volume Loss)           210lb Load - 10.3mm³; 300lb Load - 14.5mm³
+
+       Abrasive Wear Data: Volume Loss of 86.4mm³ on ASTM G65B Test
+
+       Charpy Impact Strength (Un-Notched, Room Temperature): 27 Ft. Lb
+
+       Density: .299 Lbs/In³
+
+       Liquidus: 2480°F
+
+
+
+
+2895 46th Ave North • St. Petersburg, FL. 33714 • 727.528.7998 • www. surfaceengineering.com
+
